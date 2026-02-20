@@ -355,7 +355,7 @@ Data Analyst · Python · SQL · Tableau
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/soumimukherjeeofficial)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soumimukherjee22)
-![Email](soumi.mukherjee2003@gmail.com)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soumi.mukherjee2003@gmail.com) 
 
 ---
 
