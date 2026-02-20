@@ -353,8 +353,8 @@ SOURCE SQL_Queries.sql;
 **Soumi Mukherjee**  
 Data Analyst · Python · SQL · Tableau  
 
-![LinkedIn](www.linkedin.com/in/soumimukherjeeofficial)
-![GitHub](https://github.com/soumimukherjee22)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/soumimukherjeeofficial)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soumimukherjee22)
 ![Email](soumi.mukherjee2003@gmail.com)
 
 ---
