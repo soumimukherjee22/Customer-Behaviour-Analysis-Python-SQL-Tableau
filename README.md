@@ -212,7 +212,7 @@ GROUP BY customer_id, gender, age, location, category, season,
 
 ### Dashboard 1 — Customer Segmentation
 
-![Customer Segmentation Dashboard](https://github.com/soumimukherjee22/Customer-Behaviour-Analysis-Python-SQL-Tableau/blob/main/CUSTOMER%20SEGMENTATION.png)
+![Customer Segmentation Dashboard](https://github.com/soumimukherjee22/Customer-Behaviour-Analysis-Python-SQL-Tableau/blob/main/Customer%20Segmentation%20Dashboard.png)
 
 | Visual | Insight |
 |---|---|
@@ -228,7 +228,7 @@ GROUP BY customer_id, gender, age, location, category, season,
 
 ### Dashboard 2 — Product & Category Performance
 
-![Product & Category Dashboard](https://github.com/soumimukherjee22/Customer-Behaviour-Analysis-Python-SQL-Tableau/blob/main/PRODUCT%20%26%20CATEGORY%20PERFORMANCE.png)
+![Product & Category Dashboard](ps://github.com/soumimukherjee22/Customer-Behaviour-Analysis-Python-SQL-Tableau/blob/main/Product%20%26%20Category%20Performance.png)
 
 | Visual | Insight |
 |---|---|
