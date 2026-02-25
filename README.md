@@ -228,7 +228,7 @@ GROUP BY customer_id, gender, age, location, category, season,
 
 ### Dashboard 2 — Product & Category Performance
 
-![Product & Category Dashboard](ps://github.com/soumimukherjee22/Customer-Behaviour-Analysis-Python-SQL-Tableau/blob/main/Product%20%26%20Category%20Performance.png)
+![Product & Category Dashboard](https://github.com/soumimukherjee22/Customer-Behaviour-Analysis-Python-SQL-Tableau/blob/main/Product%20%26%20Category%20Performance.png)
 
 | Visual | Insight |
 |---|---|
